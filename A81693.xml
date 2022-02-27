@@ -1,0 +1,267 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Downe-fall of Dagon, or, the taking downe of Cheap-side crosse this second of May, 1643. wherein is contained these principalls following, viz. First, Cheapside crosse sick at the heart. Secondly, his death and funerall. Thirdly, his will, legacies, inventory and epitaph. Fourthly, the reason why it was taken downe, and the authority for it. Fiftly, the benefit and profit that is made of the materialls of it, and the severall summes of mony which is offered for it; likewise the satisfaction it will give to thousands of people. Sixtly notes worthy of the readers observation, that the crosse should just happen to bee taken downe on that day which crosses were first invented and set up.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81693</idno>
+            <idno type="STC">Wing D2084</idno>
+            <idno type="STC">Thomason E100_21</idno>
+            <idno type="EEBO-CITATION">99859214</idno>
+            <idno type="PROQUEST">99859214</idno>
+            <idno type="VID">155868</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81693)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155868)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 18:E100[21])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Downe-fall of Dagon, or, the taking downe of Cheap-side crosse this second of May, 1643. wherein is contained these principalls following, viz. First, Cheapside crosse sick at the heart. Secondly, his death and funerall. Thirdly, his will, legacies, inventory and epitaph. Fourthly, the reason why it was taken downe, and the authority for it. Fiftly, the benefit and profit that is made of the materialls of it, and the severall summes of mony which is offered for it; likewise the satisfaction it will give to thousands of people. Sixtly notes worthy of the readers observation, that the crosse should just happen to bee taken downe on that day which crosses were first invented and set up.</title>
+               </titleStmt>
+               <extent>[8] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Wilson,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Woodcut of Cheapside cross on t.p.</note>
+                  <note>Signatures: [A]⁴.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "May. 3".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cheapside Cross (London, England)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155868:1" rendition="simple:additions"/>
+            <p>The Downe-fall of <hi>Dagon,</hi> or the taking downe of Cheap-ſide Croſſe this ſecond of May, 1643. wherein is contained theſe principalls following, viz.<lb/> Firſt, Cheapeſide Croſſe ſick at the heart. Secondly, his Death and Funerall. Thirdly, his Will, Legacies<g ref="char:punc">▪</g> Inventory and Epitaph. Fourthly, the Reaſon why it was taken downe, and the authority for it. Fiftly, the benefit and profit that is made of the materialls of it, and the ſeverall ſummes of mony which is offered for it; likewiſe the ſatisfaction it will give to thouſands of people. Sixtly, notes wor<g ref="char:EOLhyphen"/>thy of the Readers obſervation, that the Croſſe ſhould juſt happen to bee taken downe on that day which Croſſes were firſt invented and ſet up.</p>
+            <figure>
+               <figDesc>depiction of the Cheapside Cross</figDesc>
+            </figure>
+            <p>Printed for <hi>Thomas Wilſon.</hi> 1643. <add>May .3.</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:155868:2"/>
+            <pb facs="tcp:155868:2"/>
+            <head>The Downe-fall of Dagon, or the ta<g ref="char:EOLhyphen"/>king downe of Cheap-ſide Croſſe, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T is an e<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſier taske to reckon up all the ſpecies and ſe<g ref="char:EOLhyphen"/>verall kinds of nature, than to deſcribe all the Sects, Diviſions, and opinions in Religion that is now in and about this Kingdome and City of London; ſo that whereas there is but one Truth and one way gui<g ref="char:EOLhyphen"/>ding thereunto; the people of our Land cannot agree about this one way: but Errour and Sciſme being multiplyed manifold they, can all finde out thoſe waies to a hai<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e; ſo that the times remaine ſtill as corrupt in manners as ever any age heretofore ever did, I will leave all particuler vices which are too common and frequent amongſt us in theſe our dayes, and come to the ſu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ject in hand namely, the complaint of Cheape-ſide Croſſe, wh<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch it makes in his own defence before it ſuffers its d<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cay or ruin<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, hea<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing that it muſt be pulled down. And now to ſee the miſery of a high fortune, I that was ſo ſtout and glorious, and did not look<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> fo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a fall, am now become the hatefull Idoll of the City: I cannot ſpeake much be<g ref="char:EOLhyphen"/>ing of Stone, but I wil give you a briefe expreſſion of my antiquity; King <hi>Edward</hi> was the firſt that built me, and many more Croſſes in ſeverall Towne at the death of good Queene <hi>Elenor,</hi> and in <hi>Anno</hi> 1441. I was repaired in beautifull manner, then ſixe thouſand pound was given to my new erecting, and have beene ſo often guelded at many times that I am ſorry to thinke that all my glory ſhould now be laid in the duſt, but I am not the greateſt that have fallen; but now it is no time for me to bable out my griefes, Time with all his houres and yeares ſhall lament me and my violent undoing.</p>
+            <p>But give me leave in my anger to expreſſe my mind. 'Tis ſome body was my enemy, and I cannot tell who it was; but I can geſſe well, down I muſt; and go even flat the Earth, and then I am ſure they will not remember me, I was glorious in many Kings reigns
+<pb facs="tcp:155868:3"/> and eſteemed well in Queene <hi>Elizabeths</hi> dayes, beautified at King <hi>Iames</hi> his comming into England, and againe at King <hi>Charles</hi> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is comming to the Crowne. And I am now accounted for a Papiſt, all my antiquity is loſt from time to time, which if I ſhould m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<g ref="char:EOLhyphen"/>tion would w<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ary you wi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h the relation. I am eſteemed and held not fit to have my abidi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g in the Citie, I am called by the name of the Citie Idoll, the Browniſts ſpit at me and throw ſtones at mee as they come along the ſtreet, the Famaliſts hide their eyes with their fingers, the Annabaptiſts wiſh me to be knockt in pieces, as I am like to be this day, the ſiſters of the Fraternity wil not come near me, but go about by Watling ſtreet, and come in againe by Soaper-lane to buy their p<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oviſions of the Market-folkes. Oh theſe and the like occaſions have grieved and tormented my whole Fa<g ref="char:EOLhyphen"/>bricke, I gheſſe the cauſe, that I am now to be ruin<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ted and quite pulld down. It is the Croſſe that ſtands upon my head which is a moate in their eyes. Nay, they doe not onely ſay that I am an Idoll, but that I am a ſupporter of Idols, bec<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uſe divers Images are pla<g ref="char:EOLunhyphen"/>ced about me, but I feel my ſelfe now ſicke, nay ſick at heart, and I groane under the burthen of my owne fabrick, for I hear and am certainly told that I am to be pulled downe and defaced this mor<g ref="char:EOLhyphen"/>ning. Oh I feele the pangs of death come upon me, I ſhall never ſee the end of the merry month of May, my breath is at a period, my life is gone, for I feel my ſelfe dying downwards, my head be<g ref="char:EOLhyphen"/>ing the firſt part that doth looſe the ſence, my tongue rattles in my throat, and juſt as the Croſſe had ſo ſaid, he preſently dyed; wher<g ref="char:EOLhyphen"/>upon his Executors hearing of it, came in; and would have him embalmed; and they firſt ſtrook off his head, and ſo by degrees deſcended to other parts of the body, and left him like a Sceleton or an Anatomy of his body or corpes by ten or eleven a clock at noone, with that his Executors looking about, found his Will which he had got, being written in this manner.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="will">
+                        <head>
+                           <hi>Ieſpar Croſſe</hi> his laſt Will.</head>
+                        <p>
+                           <hi>IN primis,</hi> I deſire to be taken downe in a decent round manner, and that no ſpoile be made of my fabricke; for ſome parts of mee worth mony.</p>
+                        <pb facs="tcp:155868:3"/>
+                        <p>
+                           <hi>Item,</hi> I pray my Executors to be civill, and that they have a care that no hurt be done at my demoliſhing.</p>
+                        <p>
+                           <hi>Item,</hi> The Gold which I am gilded withall I appoint to be <gap reason="illegible" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap>ed and taken off by thoſe perſons which will give moſt mony for me.</p>
+                        <p>
+                           <hi>Item,</hi> I give to the Red-coate Souldiers all the Lead which is a<g ref="char:EOLhyphen"/>bout me to make bullets if occaſion be; if not I give it to the com<g ref="char:EOLhyphen"/>pany of Plummers to make Ceſternes and Pumps with, or elſe jacke weiAhts.</p>
+                        <p>
+                           <hi>Item,</hi> I give my Iron-worke to thoſe people which make good Swords at Hou<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ſt<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>w, for I am all Sp<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>niſh Iron, and Steele to the backe.</p>
+                        <p>
+                           <hi>Item,</hi> I give my Body and Stones to thoſe Maſons and Worke<g ref="char:EOLhyphen"/>men that cannot tell how to frame the like againe, to keep by them for a patterne; for in time there will bee more Croſſes in London then ever there was yet, &amp;c.</p>
+                        <p>
+                           <hi>Item,</hi> I give my ground whereon I ſtood to be a free Market-place, hoping that no more people will goe round as they have uſed to do about me; but will be content to ſpeake well of me hereafter, be<g ref="char:EOLhyphen"/>cauſe I ſuffer ſo roundly and ſo patiently for my errours:</p>
+                        <closer/>
+                        <postscript>
+                           <p>Vera copia teſamenta Iaſperi Croſſeribus,</p>
+                        </postscript>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="epitaph">
+                        <head>Cheap ſide Croſſe his Epitaph.</head>
+                        <lg>
+                           <l>I Looke for no praiſe when I am dead,</l>
+                           <l>For going the right way I never did tread,</l>
+                           <l>I was as hard as an Aldermans doore,</l>
+                           <l>That's ſhut, and ſtony hearted to the poore.</l>
+                           <l>I never gave Almes, nor did any thing</l>
+                           <l>Was good<g ref="char:punc">▪</g> nor e're ſaid, God ſave the King:</l>
+                           <l>I ſtood like a ſtock that was made of wood,</l>
+                           <l>And yet the people would not ſay, I was good:</l>
+                           <l>And if I tell them plaine they are like to me,</l>
+                           <l>Like ſtone to all goodneſſe, but now Reader ſee</l>
+                           <l>Me in the duſt, for Croſſes muſt not ſtand</l>
+                           <l>There is too much Croſſe-tricks within the Land;</l>
+                           <l>And having ſo done never any good,</l>
+                           <l>I leave my prayſe for to be underſtood;</l>
+                           <pb facs="tcp:155868:4"/>
+                           <l>For many women after this my loſſe.</l>
+                           <l>Will remember me and ſtill wil be croſſe.</l>
+                           <l>Croſſe trickes, Croſſe wayes, and Croſſe vanities,</l>
+                           <l>Believe the Croſſe ſpeakes truth, for here he lyes.</l>
+                        </lg>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>This Croſſe in Cheape-ſide was firſt erected as I have ſaid by <hi>Edward</hi> the firſt, in commemoration of his Queen whoſe name was <hi>Ell<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nor;</hi> Second<g ref="char:EOLhyphen"/>ly it w<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s then builded for an Ornament to the City, being placed in the chiefeſt place or ſtreete of the laid City, and therefore was thought &amp; held at that time for a glorious Fabricke, and would continue there for anti<g ref="char:EOLhyphen"/>quity ſake, rather then to give an occaſion of offence to any; It hath now ſtood near upon 400. or five hundred yeares, ſtill repaired and beautified, but never ſuffered martirdome till now; it hath beene twelve ſeverall times adorned and decored in all ages; and was ever held a gracefull Fabricke to London, till of late yeares; untill indeed many ſuperſtitious and fooliſh people have publickly adored it and worſhipped it as they have gone by it; which offence is the maine cauſe of its pulling downe and defacing.</p>
+            <div type="part">
+               <head>The reaſon why <hi>Cheap-ſide</hi> Croſſe was pulled downe.</head>
+               <p>BEcauſe it is in its own ſtructure a monument of Idolat<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y, and may better ſuite well with an Idolatrous place, as Rome and ſuch like places, than for this civill Citie, wherein ſo much preaching and teaching of Gods word is uſed; Again, that many people by nature deſire a viſible God, rather then an inviſible God; Alſo that it occaſions many from comming to looke for Chriſt in an invi<g ref="char:EOLhyphen"/>ſible way, ſo long as they can fee him viſible. Beſides, divers ignorant people who have been miſled and mi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>informed in the Proteſtant Rligion, have by ſuch like Images been ſeduced and made believe that praying to ſeverall Saints, deſi<g ref="char:EOLhyphen"/>ring them and inſtigating them, that they would ſolicite and ſpeake to our Savi<g ref="char:EOLhyphen"/>our in their behalfe, that our Saviour would make interceſſion to his father for the mittigation, and for the forgiveneſſe of their ſins; This opinion of theirs is ve<g ref="char:EOLhyphen"/>ry vaine, idle and rediculous; and a great ſin committed againſt God himſelfe; robbing and taking away his honour due unto him; and giving it creatures; as to the Saints and Angells, in worſhipping pictures crucifixes, and ſuch like traditi<g ref="char:EOLhyphen"/>ons and inventions of men; So this Croſſe hath been a great meanes to cauſe ſu<g ref="char:EOLhyphen"/>perſtition and idolatry from time to time in worſhipping and adoring it, as many people have done as they paſſe by it; for divers people both men &amp; women hath been ſeeen by ſeverall honeſt, ancient, and good Inhabitants dwelling neare the place, that ſundry ſorts of people have by three a clock in the morning come bare<g ref="char:EOLhyphen"/>foot to the Croſſe, and have kneeled downe, and ſaid ſomething to themſelves, croſſed their fore-head and their breaſt, and ſo riſen and making obeyſance,
+<pb facs="tcp:155868:4"/> went away, which puniſhment was enjoyned upon them as a penance for ſom<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſins they had committed: Likewiſe that hundreds of people have been publickly ſeen and in the midſt of the day, b<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd their bodies to it, and put off their hats, and croſſe themſelves: Not only as they have gone on foot by it, but divers that have rid on horſe-back<g ref="char:punc">▪</g> and in Coaches have put out their heads and pull'd off their hats and d<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne reverence to it; this hath bin done for theſe many yeares to<g ref="char:EOLhyphen"/>gether, and it hath bin offenſive to many good Chriſtians to behold ſuch ſuch I<g ref="char:EOLhyphen"/>dolatrous worſhip given to a Croſſe, and to images, and pictures, in ſo much that it hath bin often complained on by divers godly Miniſters. not only in their publicke Sermons, but alſo in their printed books; ſhewing the unlawfulneſſe of it, and how it hath from time to time encreaſed and encouraged people to Pope<g ref="char:EOLhyphen"/>ry: therefore ſeeing no redreſſe or helpe<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r the ſuppreſſion of it; the Common Counſell of London did Petition to the honourable Houſes of Parliament for re<g ref="char:EOLhyphen"/>leſe in this caſe, which was ſoon granted, and had a warrant to take it downe, by all the faire meanes they could deviſe, calling to their ayd the Trained bands of the City for their defence, becauſe no uproare might ariſe thereby, and that no bloud might be ſpilt; becauſe divers people had given out they would rather loſe their lives then it ſhould down<g ref="char:punc">▪</g> down it muſt, and it is ſo ordered to be taken downe that the materials may be made uſefull other way, and that they ſhould be ſold for a valuable conſideration; the materials being moſt lead, iron, and ſtone; ſome report divers of the Crownes and Scepters are ſilver; beſides the rich gold that it is guilded with which as it is reported, may be filed &amp; taken off, and yield a good value; ſo that divers which have offered ſome 400. l. ſome 500. l. but they that bid muſt offer 1000. l. for it; and ſo this Tueſday it is a taking down with a great deal of judgment and diſcretion, and foure Companies of the Trane Bands of the City to guard and defend thoſe that are about the worke, &amp; to keepe others from domineering, and ſo I leave it to bee made levell with the ground this ſecond day of <hi>May 1643. And pray good Reader take notice by the Almanacke<g ref="char:punc">▪</g> for the ſigne falls juſt at this time to b<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e in the feete, to ſhew that the Croſſe muſt be laid equall with the ground for our feet to tr<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ad on, and what day it was demoliſhed; that is on the day when Croſſes were firſt inven<g ref="char:EOLhyphen"/>ted and ſet up, and ſo I leave the reſt to your conſideration.</hi>
+               </p>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
